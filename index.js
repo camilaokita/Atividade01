@@ -1,3 +1,16 @@
-// run `node index.js` in the terminal
+const num1 = Number(prompt('Primeiro número:'));
+const num2 = Number(prompt('Segundo número:'));
 
-console.log(`Hello Node.js v${process.versions.node}!`);
+//soma
+soma = num1 + num2;
+
+//subtração
+sub = num1 - num2;
+
+//multiplicação
+mult = num1 * num2;
+
+//divisão
+div = num1 / num2;
+
+
