@@ -1,3 +1,5 @@
+console.log 
+
 const num1 = Number(prompt('Primeiro número:'));
 const num2 = Number(prompt('Segundo número:'));
 
