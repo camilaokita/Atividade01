@@ -13,4 +13,7 @@ mult = num1 * num2;
 //divisão
 div = num1 / num2;
 
-
+const res1 = soma
+const res2 = sub
+const res3 = mult
+const res4 = div
