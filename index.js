@@ -1,4 +1,4 @@
-const num1 = 40
+const num1 = 440
 const num2 = 20
 
 //operações
