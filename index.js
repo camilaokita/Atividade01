@@ -1,5 +1,5 @@
-let num1 = 40
-let num2 = 20
+const num1 = 40
+const num2 = 20
 
 //soma
 let soma = num1 + num2;
