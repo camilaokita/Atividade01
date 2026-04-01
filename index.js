@@ -1,5 +1,5 @@
-const num1 = Number(prompt('Primeiro número:'));
-const num2 = Number(prompt('Segundo número:'));
+const num1 = 10
+const num2 = 20
 
 //soma
 let soma = num1 + num2;
@@ -12,3 +12,4 @@ let mult = num1 * num2;
 
 //divisão
 let div = num1 / num2;
+
