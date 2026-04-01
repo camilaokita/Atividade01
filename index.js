@@ -1,5 +1,5 @@
-const num1 = 440
-const num2 = 20
+const num1 = 50
+const num2 = 10
 
 //operações
 let soma = num1 + num2;
